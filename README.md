@@ -1,4 +1,4 @@
-<h1 align="center">Hi programming world, are u ready?? 👋</h1>
+<h1 align="center">👋 Hi programming world, are u ready??</h1>
 <h2 align="center">I'm Macarena (like the song) and I'm a Junior FrontEnd Developer. Welcome to my Git.</h2>
 
 <h3 align="left">About me 📝</h3>
