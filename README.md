@@ -15,7 +15,8 @@ I was a physiotherapist with more than 10 years of experience, but I decided to 
   
   ⚡ Fun facts: I love music, I love to play the piano & guitar. I like to draw and I like to walk Tarzán, my dog.
   
-  👩‍🎓 This is my [Curriculum](https://github.com/MacarenaGlez/MacarenaGlez/files/6843280/Cv.FrontEnd.Macarena.pdf)
+  👩‍🎓 This is my [Curriculum](https://github.com/MacarenaGlez/MacarenaGlez/files/6844181/Cv.FrontEnd.Macarena.pdf)
+
   
   📫 How to reach me <a href="macarenagonzalezalonso@gmail.com">macarenagonzalezalonso@gmail.com</a>
 
