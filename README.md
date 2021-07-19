@@ -16,11 +16,14 @@ I was a physiotherapist with more than 10 years of experience, but I decided to 
   ⚡ Fun facts: I love music, I love to play the piano & guitar. I like to draw and I like to walk Tarzán, my dog.
   
   👩‍🎓 This is my [Curriculum](https://github.com/MacarenaGlez/MacarenaGlez/files/6843280/Cv.FrontEnd.Macarena.pdf)
+  
+  📫 How to reach me <a href="macarenagonzalezalonso@gmail.com">macarenagonzalezalonso@gmail.com</a>
 
   😄 Pronouns: She/Her
 
 
 ## 📚 Languages:
+
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,10 +40,11 @@ I was a physiotherapist with more than 10 years of experience, but I decided to 
 
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
 <br>
 
 ## 🛠 Tools:
+
 <img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 
 <img align="left" alt="Npm" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
@@ -52,15 +56,8 @@ I was a physiotherapist with more than 10 years of experience, but I decided to 
 <img align="left" alt="Trello" width="35px" src="https://img.icons8.com/color/452/trello.png" />
 
 <img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" />
-
 <br>
 
 ## 🤙 Connect with me!
 
-You can contact me at <a href="macarenagonzalezalonso@gmail.com">macarenagonzalezalonso@gmail.com</a>
-
-<a href="https://twitter.com/macaglezalonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="macaglezalonso" height="20" width="40" />Macarena González Alonso</a>
-
-<a href="https://linkedin.com/in/macarena gonzalez alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="macarena gonzalez alonso" height="20" width="40" />Macarena González Alonso</a>
-
-<a href="https://instagram.com/srta.mgonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srta.mgonzalez" height="20" width="40" />srta.mgonzalez</a>
+<a href="https://twitter.com/macaglezalonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="macaglezalonso" height="20" width="40" /></a> <a href="https://linkedin.com/in/macarena gonzalez alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="macarena gonzalez alonso" height="20" width="40" /></a> <a href="https://instagram.com/srta.mgonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srta.mgonzalez" height="20" width="40" /></a>
