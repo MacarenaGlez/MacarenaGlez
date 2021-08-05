@@ -57,6 +57,8 @@ I was a physiotherapist with more than 10 years of experience, but I decided to 
 <img align="left" alt="Trello" width="35px" src="https://img.icons8.com/color/452/trello.png" />
 
 <img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" />
+
+<img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/figma.png" />
 <br>
 
 ## 🤙 Connect with me!
