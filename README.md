@@ -16,7 +16,7 @@ My experience working in different types of companies has helped me develop my h
   
   ⚡ Fun facts: I love music, I love to play the piano & guitar. I like to draw and I like to walk Tarzán, my dog.
   
-  👩‍🎓 This is my [Curriculum](https://github.com/MacarenaGlez/MacarenaGlez/files/7547641/CV.Macarena.FrontEnd.pdf)
+  👩‍🎓 This is my [Curriculum](https://github.com/MacarenaGlez/MacarenaGlez/files/7641515/CV.Macarena.FrontEnd.pdf)
 
 
   
