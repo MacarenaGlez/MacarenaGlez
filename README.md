@@ -2,8 +2,9 @@
 I'm Macarena (like the song) and I'm a Junior FrontEnd Developer. Welcome to my Git.
 
 ## About me 📝
-I love learning new things and I continue to train in the programming field. I finished the Adalab bootcamp and I'm really looking forward to continue learning about this new world.
-I was a physiotherapist with more than 10 years of experience, but I decided to reinvent myself and chose to completely change my profession and my life!
+I am a very curious person and I love learning new things. I discovered programming trying to create my own website for my previous profession. Now I am in continuous training in the field of programming.
+
+My experience working in different types of companies has helped me develop my hability to adapt and learn easly. I really like drawing, music and traveling and… I really want to continue learning about this new world!
 
 ## More about me... 🤓
   
