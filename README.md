@@ -8,7 +8,7 @@ My experience working in different types of companies has helped me develop my h
 
 ## More about me... 🤓
   
-  🔭 I’m currently working on my portfolio.
+  🔭 I’m currently working on my <a href="https://macarenaglez.github.io/portfolio/" target="blank"> portfolio </a>
   
   🌱 My focus at the moment is on mastering React, JS, CSS and always willing to learn new skills.
   
